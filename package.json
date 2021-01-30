@@ -1,6 +1,6 @@
 {
-  "name": "@tabler/core",
-  "version": "1.0.0-alpha.22",
+  "name": "@charescape/tabler-fork",
+  "version": "1.0.0-alpha.22.1",
   "description": "Premium and Open Source dashboard template with responsive and high quality UI.",
   "scripts": {
     "start": "gulp start",
@@ -85,7 +85,7 @@
     "@fullcalendar/timegrid": "^5.5.0",
     "apexcharts": "^3.23.1",
     "autosize": "^4.0.2",
-    "bootstrap": "twbs/bootstrap#69afafe8118aa045b1371f93d5a5d5224a9d15dd",
+    "bootstrap": "^5.0.0-beta1",
     "countup.js": "^2.0.7",
     "flatpickr": "^4.6.9",
     "fullcalendar": "^5.5.0",
