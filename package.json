@@ -1,5 +1,5 @@
 {
-  "name": "@tabler/core",
+  "name": "@charescape/tabler-fork",
   "version": "1.0.0-beta",
   "description": "Premium and Open Source dashboard template with responsive and high quality UI.",
   "scripts": {
@@ -84,7 +84,7 @@
     "@tabler/icons": "^1.39.1",
     "apexcharts": "^3.25.0",
     "autosize": "^4.0.2",
-    "bootstrap": "twbs/bootstrap#5c32767e0e0dbac2d934bcdee03719a65d3f1187",
+    "bootstrap": "^5.0.0-beta2",
     "choices.js": "^9.0.1",
     "countup.js": "^2.0.7",
     "flatpickr": "^4.6.9",
